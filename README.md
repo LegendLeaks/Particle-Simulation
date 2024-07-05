@@ -1,4 +1,5 @@
 # Simple Particle Simulation
+[Try it out here](https://particle-simulation-one.vercel.app/)
 
 Made using the HTML Canvas and Javascript
 
